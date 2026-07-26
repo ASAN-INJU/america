@@ -1,0 +1,82 @@
+[
+    {
+        "code": "SPLG",
+        "name": "SPDR Portfolio S&P 500 ETF"
+    },
+    {
+        "code": "SCHD",
+        "name": "Schwab U.S. Dividend Equity ETF"
+    },
+    {
+        "code": "JEPI",
+        "name": "JPMorgan Equity Premium Income ETF"
+    },
+    {
+        "code": "JEPQ",
+        "name": "JPMorgan Nasdaq Equity Premium Income ETF"
+    },
+    {
+        "code": "SGOV",
+        "name": "iShares 0-3 Month Treasury Bond ETF"
+    },
+    {
+        "code": "SHY",
+        "name": "iShares 1-3 Year Treasury Bond ETF"
+    },
+    {
+        "code": "SPHD",
+        "name": "Invesco S&P 500 High Dividend Low Volatility ETF"
+    },
+    {
+        "code": "DGRO",
+        "name": "iShares Core Dividend Growth ETF"
+    },
+    {
+        "code": "VIG",
+        "name": "Vanguard Dividend Appreciation ETF"
+    },
+    {
+        "code": "VB",
+        "name": "Vanguard Small-Cap ETF"
+    },
+    {
+        "code": "XLF",
+        "name": "Financial Select Sector SPDR Fund"
+    },
+    {
+        "code": "XLU",
+        "name": "Utilities Select Sector SPDR Fund"
+    },
+    {
+        "code": "XLV",
+        "name": "Health Care Select Sector SPDR Fund"
+    },
+    {
+        "code": "XLP",
+        "name": "Consumer Staples Select Sector SPDR Fund"
+    },
+    {
+        "code": "XLE",
+        "name": "Energy Select Sector SPDR Fund"
+    },
+    {
+        "code": "EWZ",
+        "name": "iShares MSCI Brazil ETF"
+    },
+    {
+        "code": "EFA",
+        "name": "iShares MSCI EAFE ETF"
+    },
+    {
+        "code": "VEA",
+        "name": "Vanguard FTSE Developed Markets ETF"
+    },
+    {
+        "code": "IEMG",
+        "name": "iShares Core MSCI Emerging Markets ETF"
+    },
+    {
+        "code": "XLRE",
+        "name": "Real Estate Select Sector SPDR Fund"
+    }
+]
